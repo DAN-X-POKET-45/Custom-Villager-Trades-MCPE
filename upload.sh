@@ -1,0 +1,2 @@
+adb push CVT-BP/ /storage/emulated/0/Android/data/com.mojang.minecraftpe/files/games/com.mojang/behavior_packs/
+#adb push WD-RP/ /storage/emulated/0/Android/data/com.mojang.minecraftpe/files/games/com.mojang/resource_packs/
