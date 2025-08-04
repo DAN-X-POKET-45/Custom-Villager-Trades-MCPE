@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Custom Villager Trades by Daniel poket 45",
+		"description": "Custom trades for Minecraft Bedrock Imaginary Order server",
+		"uuid": "ce072edc-020c-4197-9ad6-8adb17691c90",
+		"version": [ 1, 1, 5 ],
+		"min_engine_version": [ 1, 13, 0 ]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "d0abedb2-a5ac-4545-b086-5cee4ff4b095",
+			"version": [ 1, 1, 5 ]
+		}
+	],
+	"subpacks": [
+		{
+			"folder_name": "extra_villagers",
+			"name": "Extra Villagers",
+			"memory_tier": 2
+		},
+		{
+			"folder_name": "default",
+			"name": "Default",
+			"memory_tier": 1
+		}
+	]
+
+}
